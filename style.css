@@ -1,3 +1,10 @@
 body {
-  background-image: linear-gradient(#ba00b1, #d9871c);
+  font-family: 'Montserrat';
+  color: #ffffff;
+  background-color: #ff4949;
+}
+
+div {
+  background-color: #8c6f6f;
+  color: #ffffff;
 }
